@@ -1,0 +1,27 @@
+{
+  "name": "babeles2015test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neos21GitHub/BabelES2015Test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neos21GitHub/BabelES2015Test/issues"
+  },
+  "homepage": "https://github.com/Neos21GitHub/BabelES2015Test#readme",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.17.0",
+    "babel-preset-es2015": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-load-plugins": "^1.3.0"
+  }
+}
