@@ -1,11 +1,8 @@
 {
-  "name": "babeles2015test",
+  "name": "babel-es2015-test",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Babel ES2015 Test",
+  "main": "dist/scripts/sample.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neos21GitHub/BabelES2015Test.git"
