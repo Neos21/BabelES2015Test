@@ -1,7 +1,7 @@
 import gulp            from "gulp"
 import gulpLoadPlugins from "gulp-load-plugins"
 
-// Gulp プラグインを一括で読み込
+// Gulp プラグインを一括で読込
 const $ = gulpLoadPlugins();
 
 /**
