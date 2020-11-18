@@ -1,18 +1,22 @@
 {
   "name": "babel-es2015-test",
-  "version": "1.0.0",
   "description": "Babel ES2015 Test",
+  "private": true,
   "main": "dist/scripts/sample.js",
+  "author": "Neo <neos21@gmail.com> (https://neos21.net/)",
+  "license": "MIT",
+  "homepage": "https://github.com/Neos21/BabelES2015Test#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Neos21/BabelES2015Test.git"
   },
-  "author": "Neo <neos21@gmail.com> (http://neo.s21.xrea.com/)",
-  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Neos21/BabelES2015Test/issues"
   },
-  "homepage": "https://github.com/Neos21/BabelES2015Test#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/Neos21"
+  },
   "devDependencies": {
     "babel": "6.5.2",
     "babel-core": "6.17.0",
